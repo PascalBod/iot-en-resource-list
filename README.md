@@ -4,6 +4,7 @@
 
 | When | What |
 |------|------|
+| 18-Jan-2023 | Link to IMT Atlantique course |
 | 19-May-2022 | Creation |
 
 ## Presentations
@@ -12,6 +13,10 @@
 * [iot-fr-presentation](https://github.com/PascalBod/iot-fr-presentation) - French version of the above presentation - Active
 * [stm32-dev-en-presentation](https://github.com/PascalBod/stm32-dev-en-presentation) - Provides an overview of how to develop a bare metal application for an STM32 microcontroller - Active
 * [rtos-en-presentation](https://github.com/PascalBod/rtos-en-presentation) - Provides an overview of how to use a real time operating system (RTOS) - Active
+
+## Courses
+
+* [OS for embedded devices](https://github.com/PascalBod/IMTAtlantique-2023) - A course about RTOS taught to some [IMT Atlantique](https://www.imt-atlantique.fr/en) students, with pratical sessions based on [ESP-EYE](https://www.espressif.com/en/products/devkits/esp-eye/overview) - Active
 
 ## Guides and articles
 
