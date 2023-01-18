@@ -16,7 +16,7 @@
 
 ## Courses
 
-* [OS for embedded devices](https://github.com/PascalBod/IMTAtlantique-2023) - A course about RTOS taught to some [IMT Atlantique](https://www.imt-atlantique.fr/en) students, with pratical sessions based on [ESP-EYE](https://www.espressif.com/en/products/devkits/esp-eye/overview) - Active
+* [OS for embedded devices](https://github.com/PascalBod/IMTAtlantique-2023) - A course about RTOS taught to some [IMT Atlantique](https://www.imt-atlantique.fr/en) students, with practical sessions based on [ESP-EYE](https://www.espressif.com/en/products/devkits/esp-eye/overview) - Active
 
 ## Guides and articles
 
