@@ -4,7 +4,7 @@
 
 | When | What |
 |------|------|
-| 24-MAy-2023 | Addition of esp32-fuota and docker-update-server |
+| 24-May-2023 | Addition of esp32-fuota and docker-update-server |
 | 18-Jan-2023 | Link to IMT Atlantique course |
 | 19-May-2022 | Creation |
 
