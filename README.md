@@ -4,6 +4,7 @@
 
 | When | What |
 |------|------|
+| 24-MAy-2023 | Addition of esp32-fuota and docker-update-server |
 | 18-Jan-2023 | Link to IMT Atlantique course |
 | 19-May-2022 | Creation |
 
@@ -28,6 +29,9 @@
 
 ## Code
 
+* ESP32 firmware update over the air: 
+  *  [esp32-fuota](https://github.com/PascalBod/esp32-fuota) - A possible way to implement Firmware Update Over The Air with the ESP32
+  *  [docker-fuota-server](https://github.com/PascalBod/docker-fuota-server) - The server for esp32-fuota
 * [espidf-udp](https://github.com/PascalBod/espidf-udp) - Transmitting and receiving UDP messages with ESP-IDF - Active
 * [stm32-examples](https://github.com/PascalBod/stm32-examples) - Some STM32 examples - Active
 * [simplePythonHttpServer](https://github.com/PascalBod/simplePythonHttpServer) - A simple Python HTTP server, that I used to transfer files from a device - Active
