@@ -30,8 +30,8 @@
 ## Code
 
 * ESP32 firmware update over the air: 
-  *  [esp32-fuota](https://github.com/PascalBod/esp32-fuota) - A possible way to implement Firmware Update Over The Air with the ESP32
-  *  [docker-fuota-server](https://github.com/PascalBod/docker-fuota-server) - The server for esp32-fuota
+  *  [esp32-fuota](https://github.com/PascalBod/esp32-fuota) - A possible way to implement Firmware Update Over The Air with the ESP32 - Active
+  *  [docker-fuota-server](https://github.com/PascalBod/docker-fuota-server) - The server for esp32-fuota - Active
 * [espidf-udp](https://github.com/PascalBod/espidf-udp) - Transmitting and receiving UDP messages with ESP-IDF - Active
 * [stm32-examples](https://github.com/PascalBod/stm32-examples) - Some STM32 examples - Active
 * [simplePythonHttpServer](https://github.com/PascalBod/simplePythonHttpServer) - A simple Python HTTP server, that I used to transfer files from a device - Active
