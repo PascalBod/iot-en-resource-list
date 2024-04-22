@@ -4,6 +4,7 @@
 
 | When | What |
 |------|------|
+| 22-Apr-2024 | Update of IMT Atlantique course |
 | 24-May-2023 | Addition of esp32-fuota and docker-fuota-server |
 | 18-Jan-2023 | Link to IMT Atlantique course |
 | 19-May-2022 | Creation |
@@ -17,7 +18,7 @@
 
 ## Courses
 
-* [OS for embedded devices](https://github.com/PascalBod/IMTAtlantique-2023) - A course about RTOS taught to some [IMT Atlantique](https://www.imt-atlantique.fr/en) students, with practical sessions based on [ESP-EYE](https://www.espressif.com/en/products/devkits/esp-eye/overview) - Active
+* [OS for embedded devices](https://github.com/PascalBod/IMTAtlantique-2024) - A course about RTOS taught at [IMT Atlantique](https://www.imt-atlantique.fr/en), with practical sessions based on [ESP-EYE](https://www.espressif.com/en/products/devkits/esp-eye/overview) - Active
 
 ## Guides and articles
 
