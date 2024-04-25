@@ -4,6 +4,7 @@
 
 | When | What |
 |------|------|
+| 25-Apr-2024 | Addition of lm-vm |
 | 22-Apr-2024 | Update of IMT Atlantique course |
 | 24-May-2023 | Addition of esp32-fuota and docker-fuota-server |
 | 18-Jan-2023 | Link to IMT Atlantique course |
