@@ -23,6 +23,7 @@
 ## Guides and articles
 
 * [stm32-swv](https://github.com/PascalBod/stm32-swv) - How to use SWV with an STM32 microcontroller - Active
+* [lm-vm](https://github.com/PascalBod/lm-vm) - How to create the Linux Mint virtual machine used as the seed for the VMs below - Active
 * [lm-esp32-eclipse](https://github.com/PascalBod/lm-esp32-eclipse) - How to set up Eclipse with ESP32 plugin in a Linux virtual machine, and build a first sample application - Active
 * [lm-stm32cubeide](https://github.com/PascalBod/lm-stm32cubeide) - How to set up STM32CubeIDE in a Linux virtual machine and build a first sample application - Active
 * [log-analyzer-en-article](https://github.com/PascalBod/log-analyzer-en-article) - Using some basic parsing techniques to analyze log files in a constrained environment - Active
