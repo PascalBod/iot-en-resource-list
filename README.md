@@ -4,6 +4,7 @@
 
 | When | What |
 |------|------|
+| 19-Aug-2024 | Addition of RTOS-presentation |
 | 06-Aug-2024 | Addition of lm-efr32-simplicityStudio |
 | 25-Apr-2024 | Addition of lm-vm |
 | 22-Apr-2024 | Update of IMT Atlantique course |
@@ -13,6 +14,7 @@
 
 ## Presentations
 
+* [RTOS-presentation](https://github.com/PascalBod/RTOS-presentation) - Provides an introduction to the use of an RTOS on a microcontroller for developing Machine Learning applications - Active
 * [iot-en-presentation](https://github.com/PascalBod/iot-en-presentation) - Provides an overview of the domain that is today called *Internet of Things* or *Connected Objects*, from the perspective of the system integrator - Active
 * [iot-fr-presentation](https://github.com/PascalBod/iot-fr-presentation) - French version of the above presentation - Active
 * [stm32-dev-en-presentation](https://github.com/PascalBod/stm32-dev-en-presentation) - Provides an overview of how to develop a bare metal application for an STM32 microcontroller - Active
