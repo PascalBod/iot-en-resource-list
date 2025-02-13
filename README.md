@@ -4,6 +4,7 @@
 
 | When | What |
 |------|------|
+| 12-Feb-2025 | Addition of embedded-systems-for-ML |
 | 28-Jan-2025 | Clean-up |
 | 19-Aug-2024 | Addition of RTOS-presentation |
 | 06-Aug-2024 | Addition of lm-efr32-simplicityStudio |
@@ -18,12 +19,10 @@
 * [iot-en-presentation](https://github.com/PascalBod/iot-en-presentation) - Provides an overview of the domain that is today called *Internet of Things* or *Connected Objects*, from the perspective of the system integrator - Active
 * [iot-fr-presentation](https://github.com/PascalBod/iot-fr-presentation) - French version of the above presentation - Active
 * [stm32-dev-en-presentation](https://github.com/PascalBod/stm32-dev-en-presentation) - Provides an overview of how to develop a bare metal application for an STM32 microcontroller - Active
-* [rtos-en-presentation](https://github.com/PascalBod/rtos-en-presentation) - Provides an overview of how to use a real time operating system (RTOS) - Superseded by [RTOS-presentation](https://github.com/PascalBod/RTOS-presentation) (see below)
 
 ## Courses
 
-* [RTOS-presentation](https://github.com/PascalBod/RTOS-presentation) - Provides an introduction to embedded systems for Machine Learning application developers. Practical sessions based on the [EFR32xG24 Dev Kit](https://www.silabs.com/development-tools/wireless/efr32xg24-dev-kit?tab=overview) - Active
-* [OS for embedded devices](https://github.com/PascalBod/IMTAtlantique-2024) - A course about RTOS taught at [IMT Atlantique](https://www.imt-atlantique.fr/en), with practical sessions based on [ESP-EYE](https://www.espressif.com/en/products/devkits/esp-eye/overview) - Stale
+* [embedded-systems-for-ML](https://github.com/PascalBod/embedded-systems-for-ML) - Provides an introduction to embedded systems. The targeted audience is machine learning application developers, who want to better understand what an embedded system is, and how it can be used. Practical sessions based on the [EFR32xG24 Dev Kit](https://www.silabs.com/development-tools/wireless/efr32xg24-dev-kit?tab=overview) - Active
 
 ## Guides and articles
 
