@@ -4,6 +4,7 @@
 
 | When | What |
 |------|------|
+| 29-Apr-2025 | Addition of lm-zephyr |
 | 12-Feb-2025 | Addition of embedded-systems-for-ML |
 | 28-Jan-2025 | Clean-up |
 | 19-Aug-2024 | Addition of RTOS-presentation |
@@ -26,6 +27,7 @@
 
 ## Guides and articles
 
+* [lm-zephyr](https://github.com/PascalBod/lm-zephyr) - How to develop Zephyr RTOS applications - Under construction
 * [stm32-swv](https://github.com/PascalBod/stm32-swv) - How to use SWV with an STM32 microcontroller - Active
 * [lm-vm](https://github.com/PascalBod/lm-vm) - How to create the Linux Mint virtual machine used as the seed for the VMs below - Active
 * [lm-efr32-simplicityStudio](https://github.com/PascalBod/lm-efr32-simplicityStudio) - How to set up Simplicity Studio in a Linux Virtual machine, and build a first sample application - Active
