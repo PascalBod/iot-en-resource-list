@@ -17,9 +17,8 @@
 
 ## Presentations
 
-* [iot-en-presentation](https://github.com/PascalBod/iot-en-presentation) - Provides an overview of the domain that is today called *Internet of Things* or *Connected Objects*, from the perspective of the system integrator - Active
-* [iot-fr-presentation](https://github.com/PascalBod/iot-fr-presentation) - French version of the above presentation - Active
-* [stm32-dev-en-presentation](https://github.com/PascalBod/stm32-dev-en-presentation) - Provides an overview of how to develop a bare metal application for an STM32 microcontroller - Active
+* [iot-en-presentation](https://github.com/PascalBod/iot-en-presentation) - Provides an overview of the domain that is today called *Internet of Things* or *Connected Objects*, from the perspective of the system integrator - Update coming soon
+* [stm32-dev-en-presentation](https://github.com/PascalBod/stm32-dev-en-presentation) - Provides an overview of how to develop a bare metal application for an STM32 microcontroller - Not updated for some time
 
 ## Courses
 
@@ -27,22 +26,22 @@
 
 ## Guides and articles
 
-* [lm-zephyr](https://github.com/PascalBod/lm-zephyr) - How to develop Zephyr RTOS applications - Under construction
-* [stm32-swv](https://github.com/PascalBod/stm32-swv) - How to use SWV with an STM32 microcontroller - Active
+* [lm-zephyr](https://github.com/PascalBod/lm-zephyr) - How to develop Zephyr RTOS applications - Not updated for some time
+* [stm32-swv](https://github.com/PascalBod/stm32-swv) - How to use SWV with an STM32 microcontroller - Not updated for some time
 * [lm-vm](https://github.com/PascalBod/lm-vm) - How to create the Linux Mint virtual machine used as the seed for the VMs below - Active
 * [lm-efr32-simplicityStudio](https://github.com/PascalBod/lm-efr32-simplicityStudio) - How to set up Simplicity Studio in a Linux Virtual machine, and build a first sample application - Active
-* [lm-esp32-eclipse](https://github.com/PascalBod/lm-esp32-eclipse) - How to set up Espressif-IDE in a Linux virtual machine, and build a first sample application - Active
-* [lm-stm32cubeide](https://github.com/PascalBod/lm-stm32cubeide) - How to set up STM32CubeIDE in a Linux virtual machine and build a first sample application - Active
-* [log-analyzer-en-article](https://github.com/PascalBod/log-analyzer-en-article) - Using some basic parsing techniques to analyze log files in a constrained environment - Active
-* [lm20.1-ThSenseIotKit-EI](https://github.com/PascalBod/lm20.1-ThSenseIotKit-EI) -  A way to make a virtual machine configured for creating and running machine learning models created using Edge Impulse plaform, for a Silicon Labs Thunderbird Sense 2 Iot Kit - Stale
+* [lm-esp32-eclipse](https://github.com/PascalBod/lm-esp32-eclipse) - How to set up Espressif-IDE in a Linux virtual machine, and build a first sample application - Not updated for some time
+* [lm-stm32cubeide](https://github.com/PascalBod/lm-stm32cubeide) - How to set up STM32CubeIDE in a Linux virtual machine and build a first sample application - Not updated for some time
+* [log-analyzer-en-article](https://github.com/PascalBod/log-analyzer-en-article) - Using some basic parsing techniques to analyze log files in a constrained environment - Not updated for some time
+* [lm20.1-ThSenseIotKit-EI](https://github.com/PascalBod/lm20.1-ThSenseIotKit-EI) -  A way to make a virtual machine configured for creating and running machine learning models created using Edge Impulse plaform, for a Silicon Labs Thunderbird Sense 2 Iot Kit - Not updated for some time
 
 ## Code
 
 * ESP32 firmware update over the air: 
-  *  [esp32-fuota](https://github.com/PascalBod/esp32-fuota) - A possible way to implement Firmware Update Over The Air with the ESP32 - Active
-  *  [docker-fuota-server](https://github.com/PascalBod/docker-fuota-server) - The server for esp32-fuota - Active
-* [espidf-udp](https://github.com/PascalBod/espidf-udp) - Transmitting and receiving UDP messages with ESP-IDF - Active
-* [stm32-examples](https://github.com/PascalBod/stm32-examples) - Some STM32 examples - Active
-* [simplePythonHttpServer](https://github.com/PascalBod/simplePythonHttpServer) - A simple Python HTTP server, that I used to transfer files from a device - Active
-* [ESPIDFUdpSender](https://github.com/PascalBod/ESPIDFUdpSender) - Transmitting UDP messages with ESP-IDF - Stale
-* [ESPIDFRuuviTag](https://github.com/PascalBod/ESPIDFRuuviTag) - ESP-IDF Ruuvi tag BLE advertising data receiver - Stale
+  *  [esp32-fuota](https://github.com/PascalBod/esp32-fuota) - A possible way to implement Firmware Update Over The Air with the ESP32 - Not updated for some time
+  *  [docker-fuota-server](https://github.com/PascalBod/docker-fuota-server) - The server for esp32-fuota - Not updated for some time
+* [espidf-udp](https://github.com/PascalBod/espidf-udp) - Transmitting and receiving UDP messages with ESP-IDF - Not updated for some time
+* [stm32-examples](https://github.com/PascalBod/stm32-examples) - Some STM32 examples - Not updated for some time
+* [simplePythonHttpServer](https://github.com/PascalBod/simplePythonHttpServer) - A simple Python HTTP server, that I used to transfer files from a device - Not updated for some time
+* [ESPIDFUdpSender](https://github.com/PascalBod/ESPIDFUdpSender) - Transmitting UDP messages with ESP-IDF - Not updated for some time
+* [ESPIDFRuuviTag](https://github.com/PascalBod/ESPIDFRuuviTag) - ESP-IDF Ruuvi tag BLE advertising data receiver - Not updated for some time
